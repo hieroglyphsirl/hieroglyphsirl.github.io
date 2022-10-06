@@ -8,10 +8,10 @@ Its purpose is to enable students and scholars to look up the real-world counter
 
 Many hieroglyphs depict objects that were commonly known to ancient Egyptians, but which are unfamiliar in the modern world.
 
-For example, the sign 𓊫 depicts a headrest—the ancient Egyptian equivalent of a pillow—but it would be difficult to know this on sight because headrests are not common in our world. A quick look at museum collections shows that they were very common in ancient Egypt. So common that many have survived to the present day, such as this example from the Met ([Headrest of Harmose](https://www.metmuseum.org/art/collection/search/549018)):
+For example, the sign 𓊫 depicts a headrest—the ancient Egyptian equivalent of a pillow—but it would be difficult to guess this on sight because headrests are not common in our world. A quick look at museum collections shows that headrests were very common in ancient Egypt. So common that many have survived to the present day, such as this example from the Met ([Headrest of Harmose](https://www.metmuseum.org/art/collection/search/549018)):
 ![headrest](https://collectionapi.metmuseum.org/api/collection/v1/iiif/549018/1712596/main-image)
 
-By contrast, a symbol such as 📷 would likely be incomprehensible to an ancient Egyptian scribe, but we can immediately recognize it as a camera.
+By contrast, a symbol such as 📷 would probably be incomprehensible to an ancient Egyptian scribe, but we can immediately recognize it as a camera.
 
 The purpose of this project is to make the objects depicted in hieroglyphs as recognizable to readers today as they were to the ancient Egyptians.
 
@@ -28,4 +28,4 @@ Simultaneously, this project will link to other important online sources, such a
 
 HieroglyphsIRL is created by Michael Hoffen and Christian Casey.
 
-For questions and comments, please write to [!mailto:hieroglyphsirl@gmail.com](hieroglyphsirl@gmail.com).
+For questions and comments, please write to [hieroglyphsirl@gmail.com](!mailto:hieroglyphsirl@gmail.com).
