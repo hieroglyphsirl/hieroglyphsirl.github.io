@@ -20,7 +20,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>HieroglyphsIRL</h1>
-        <p>Coming soon...</p>
+        <p>Coming soon...or not</p>
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <div className='signListContainer'>
           {signList.map(sign => (<p key={sign.id}>{sign.fields.unicode}</p>))}
